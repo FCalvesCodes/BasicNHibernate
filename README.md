@@ -1,6 +1,6 @@
 # Persistência com NHibernate
 
-É um uso básico do NHibernate usando Console .NET 6.
+NHibernate é um mapeador relacional de objeto maduro e de código aberto para a estrutura .NET. É desenvolvido ativamente , com todos os recursos e usado em milhares de projetos bem-sucedidos.
 
 - NHibernate
 - Fluent NHibernate
